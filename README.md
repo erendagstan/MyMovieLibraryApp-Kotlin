@@ -7,7 +7,7 @@ Here are some features that a "MyMovieLibrary" application:
 1)Adding movies: Users should be able to add movies to their library manually by entering the movie details and application saves the movie to ROOM database.
 2)Delete movies: Users can delete recorded movies. The deleted movie is also deleted from the ROOM database.
 
-While developing the application, recyclerview was used to list the movies. ROOM database is used to save the movies and the data is stored on the phone. Fragment and Navigation are used. Data was exchanged between the fragments with a bundle. In this way, the data could be displayed on different pages. View binding is used. All of these used features have been added to the build.gradle file.
+While developing the application, recyclerview was used to list the movies. ROOM database is used to save the movies and the data is stored on the phone. Fragment and Navigation are used. Data was exchanged between the fragments with a bundle. In this way, the data could be displayed on different pages. View binding is used. All of these used features have been added to the build.gradle file. Using the Bitmap, the aspect ratio and size of the photo of the movie added by the user are adjusted.
 
 Here are some of images of "MyMovieLibrary":
 
